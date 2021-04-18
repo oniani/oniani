@@ -1,8 +1,8 @@
 Research interests:
 
 - Artificial Intelligence
-- Programming Languages
 - Emerging Technologies
+- Programming Languages
 
 If you really really want to reach me, execute the command below:
 
