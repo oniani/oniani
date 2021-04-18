@@ -1,10 +1,10 @@
-_research interests_:
+Research interests:
 
-- _artificial intelligence_
-- _programming languages_
-- _emerging technologies_
+- Artificial Intelligence
+- Programming Languages
+- Emerging Technologies
 
-_if you really really want to reach me, execute the command below:_
+If you really really want to reach me, execute the command below:
 
 ```console
 curl -Ls www.davidoniani.com/card | sh
